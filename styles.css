@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  font-size: 2rem;
+  display: block;
+  margin: 3rem;
+  background-image: url("images/windows.jpg");
+}
+h1{
+color: red;
+}
+span{
+  display: block;
+}
+.credits{
+  position: relative;
+  top: 15rem;
+}
+.fab{
+  color: black;
+}
+.buttons{
+  display: inline-block;
+}
+.btn{
+padding: 2rem;
+margin: 2rem;
+font-size: 3rem;
+}
+.button-wrapper{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.btn:hover{
+  opacity: 90%;
+}
